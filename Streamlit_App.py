@@ -1,3 +1,5 @@
 import streamlit
-streamlit.title('Good things take time :)')
+streamlit.title('Quotes for the day')
+streamlit.header('Quote1')
+streamlit.text('Good things take time :)')
 
